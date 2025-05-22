@@ -1,0 +1,16 @@
+{
+  "name": "Email PDF Insight Data Analyst",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "2cc858cd-295b-46b1-8773-65d77894fab5",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "001fa8e53cd85d998324a5057f502011382873a507426b660d754b2f2e07f78c"
+  },
+  "id": "qDXEhujxA8oHxXZJ",
+  "tags": []
+}
